@@ -4,6 +4,8 @@ author: Adeel Tariq
 output: html_document
 ---
 
+# October 2024
+
 What happened in October in the Pakistani Game Dev scene? Let's find out.
 
 ## New Steam Releases 🥳
