@@ -33,8 +33,7 @@ A game by _Rayyan Aziz_ and _Adil Shafique_ of _The Silver Demons_<br>
 
 Even more releases. Yay!
 
-1. [**Buried Echoes**](https://adeeltariq.itch.io/buried-echoes)
-   ![](https://img.itch.zone/aW1nLzE3OTU0NDk0LnBuZw==/315x250%23c/t4HTXA.png)
+1. [**Buried Echoes**](https://adeeltariq.itch.io/buried-echoes)<br>![](https://img.itch.zone/aW1nLzE3OTU0NDk0LnBuZw==/315x250%23c/t4HTXA.png)
 
 2. [**The Space Dude**](https://max3d.itch.io/the-space-dude)
 
