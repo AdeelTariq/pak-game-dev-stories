@@ -40,7 +40,7 @@ Even more releases. Yay!
 
 3. [**An Apple A Day**<br>![](https://img.itch.zone/aW1nLzE4MjE4ODAzLnBuZw==/315x250%23c/nM5TJO.png)](https://sarah-noor.itch.io/an-apple-a-day)
 
-4. [**My Sopwith**<br>![](https://img.itch.zone/aW1nLzE4MzY5Njg4LmdpZg==/original/eEmtTJ.gif)](https://adeeltariq.itch.io/sopwith)
+4. [**My Sopwith**<br>![](https://img.itch.zone/aW1nLzE4MzY5Njg4LmdpZg==/315x250%23c/eEmtTJ.gif)](https://adeeltariq.itch.io/sopwith)
 
 5. [**Creepy Collectibles**<br>![](https://img.itch.zone/aW1nLzE4MjA5NDI4LnBuZw==/315x250%23c/%2FxHEUp.png)](https://jeea84.itch.io/creepy-collectibles)
 
