@@ -2,6 +2,7 @@
 title: October 2024
 author: Adeel Tariq
 output: html_document
+image: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg
 ---
 
 # October 2024
