@@ -15,14 +15,14 @@ We have been anticipating these two games for a while and they are finally avail
 
 
 ### **Liminalcore**
-![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg)
+![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg)<br>
 Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore.<br>
 A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_<br>
 [Buy on Steam](https://store.steampowered.com/app/3107900/Liminalcore)
 
 
 ### **The Void Project**
-![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2681270/header.jpg)
+![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2681270/header.jpg)<br>
 Face demons, overcome their patterns and finish them off in as less time as possible to reach the top of the leaderboard.<br>
 A game by _Rayyan Aziz_ and _Adil Shafique_ of _The Silver Demons_<br>
 [Buy on Steam](https://store.steampowered.com/app/2681270/The_Void_Project/)
