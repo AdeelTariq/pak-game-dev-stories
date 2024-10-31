@@ -2,6 +2,13 @@
 title: October 2024
 ---
 
+``` {css}
+body {
+ background-color: black;
+ color: white;
+}
+```
+
 What happened in October in the Pakistani Game Dev scene? Let's find out.
 
 ## New Steam Releases 🥳
