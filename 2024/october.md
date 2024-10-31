@@ -9,8 +9,7 @@ What happened in October in the Pakistani Game Dev scene? Let's find out.
 We have been anticipating these two games for a while and they are finally available on Steam! Go support them by buying the games and posting reviews.
 
 
-### **_Liminalcore_**
-
+### **Liminalcore**
 Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore.
 
 A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_
@@ -18,8 +17,7 @@ A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl S
 [Buy on Steam](https://store.steampowered.com/app/3107900/Liminalcore)
 
 
-### **_The Void Project_**
-
+### **The Void Project**
 Face demons, overcome their patterns and finish them off in as less time as possible to reach the top of the leaderboard.
 
 A game by _Rayyan Aziz_ and _Adil Shafique_ of _The Silver Demons_
@@ -48,22 +46,22 @@ Even more releases. Yay!
 
 Lots of Pakistani game developers are working on cool projects, some of which they have announced this month. Looking forward to more updates on these.
  
-#### **_Alien Market Simulator_**
+#### **Alien Market Simulator**
 Run a market on your space station. Restore and upgrade the station, expand your services, and sell to a variety of alien customers. Experience the challenge of managing a business in space and growing your market.
 
 [Game Steam Page](https://store.steampowered.com/app/3215290/Alien_Market_Simulator/)
 
-#### **_SHEL: The Cure_**
+#### **SHEL: The Cure**
 A narrative puzzle/simulation game set on a dystopian space colony, where you inspect, diagnose and treat replicant workers on the behalf of a shadowy corporation.
 
 [Team Gramps YT](https://www.youtube.com/@teamgramps)
 
-#### **_Abyss Occult_**
+#### **Abyss Occult**
 A psychological, narrative driven horror game, partially based on a true story  
 
 [Announcement Teaser on YT](https://www.youtube.com/watch?v=QkcA0-4jOW4)
 
-#### **_Chaman Station_**
+#### **Chaman Station**
 A narrative-driven experience that will take you on a journey of discovery, resilience, and self-reflection.
 
 [Linkedin Announcement](https://www.linkedin.com/feed/update/urn:li:activity:7255518528496173057/)
@@ -79,10 +77,10 @@ IGDA Pakistan hosted a story writing jam on their discord around the theme of â€
 
 ## Other News ðŸ“°
 
-#### **_r/PakGameDev_**
+#### **r/PakGameDev**
 This new subreddit was created for Pakistani game devs and creatives (by me) as a place where people in the industry can share what they are up to and new comers can find guidance and aspiration.
   
-#### **_Steam Next Fest_**
+#### **Steam Next Fest**
 Steam hosted the year's third and last Next Fest which is an event featuring lots of free demos and new games. Two Pakistani games _Liminalcore_ and _The Void Project_ participated this time and their demos are still up so give them a try.
 
 ---
