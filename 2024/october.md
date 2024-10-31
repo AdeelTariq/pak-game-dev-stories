@@ -12,10 +12,8 @@ We have been anticipating these two games for a while and they are finally avail
 
 
 ### **Liminalcore**
-Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore.
-
-A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_
-
+Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore. 
+A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_ 
 [Buy on Steam](https://store.steampowered.com/app/3107900/Liminalcore)
 
 
