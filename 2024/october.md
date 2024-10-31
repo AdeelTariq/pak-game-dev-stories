@@ -14,7 +14,7 @@ What happened in October in the Pakistani Game Dev scene? Let's find out.
 We have been anticipating these two games for a while and they are finally available on Steam! Go support them by buying the games and posting reviews.
 
 
-[### **Liminalcore**
+[### **Liminalcore**<br>
 ![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg)](https://store.steampowered.com/app/3107900/Liminalcore)<br>
 Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore.<br>
 A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_<br>
