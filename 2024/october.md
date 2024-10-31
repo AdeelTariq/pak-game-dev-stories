@@ -1,6 +1,7 @@
 ---
 title: October 2024
 author: Adeel Tariq
+output: html_document
 ---
 
 What happened in October in the Pakistani Game Dev scene? Let's find out.
