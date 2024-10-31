@@ -14,15 +14,15 @@ What happened in October in the Pakistani Game Dev scene? Let's find out.
 We have been anticipating these two games for a while and they are finally available on Steam! Go support them by buying the games and posting reviews.
 
 
-[### **Liminalcore**<br>
-![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg)](https://store.steampowered.com/app/3107900/Liminalcore)<br>
+### **Liminalcore**
+[![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg)](https://store.steampowered.com/app/3107900/Liminalcore)<br>
 Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore.<br>
 A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_<br>
 [Buy on Steam](https://store.steampowered.com/app/3107900/Liminalcore)
 
 
 ### **The Void Project**
-![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2681270/header.jpg)<br>
+[![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2681270/header.jpg)](https://store.steampowered.com/app/2681270/The_Void_Project/)<br>
 Face demons, overcome their patterns and finish them off in as less time as possible to reach the top of the leaderboard.<br>
 A game by _Rayyan Aziz_ and _Adil Shafique_ of _The Silver Demons_<br>
 [Buy on Steam](https://store.steampowered.com/app/2681270/The_Void_Project/)
@@ -36,13 +36,13 @@ Even more releases. Yay!
 
 1. [**Buried Echoes**<br>![](https://img.itch.zone/aW1nLzE3OTU0NDk0LnBuZw==/315x250%23c/t4HTXA.png)](https://adeeltariq.itch.io/buried-echoes)
 
-2. [**The Space Dude**](https://max3d.itch.io/the-space-dude)
+2. [**The Space Dude**<br>![](https://img.itch.zone/aW1nLzE4MjExMDg1LnBuZw==/315x250%23c/H1qUde.png)](https://max3d.itch.io/the-space-dude)
 
-3. [**An Apple A Day**](https://sarah-noor.itch.io/an-apple-a-day)
+3. [**An Apple A Day**<br>![](https://img.itch.zone/aW1nLzE4MjE4ODAzLnBuZw==/315x250%23c/nM5TJO.png)](https://sarah-noor.itch.io/an-apple-a-day)
 
-4. [**My Sopwith**](https://adeeltariq.itch.io/sopwith)
+4. [**My Sopwith**<br>![](https://img.itch.zone/aW1nLzE4MzY5Njg4LmdpZg==/original/eEmtTJ.gif)](https://adeeltariq.itch.io/sopwith)
 
-5. [**Creepy Collectibles**](https://jeea84.itch.io/creepy-collectibles)
+5. [**Creepy Collectibles**<br>![](https://img.itch.zone/aW1nLzE4MjA5NDI4LnBuZw==/315x250%23c/%2FxHEUp.png)](https://jeea84.itch.io/creepy-collectibles)
 
 
 <br>
