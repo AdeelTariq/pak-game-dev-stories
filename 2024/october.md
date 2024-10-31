@@ -14,16 +14,14 @@ We have been anticipating these two games for a while and they are finally avail
 
 
 ### **Liminalcore**
-Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore. 
-A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_ 
+Explore and admire while navigating through eerie, surreal environments inspired by the Backrooms lore.<br>
+A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl Studios_ and _Ashen Studios_<br>
 [Buy on Steam](https://store.steampowered.com/app/3107900/Liminalcore)
 
 
 ### **The Void Project**
-Face demons, overcome their patterns and finish them off in as less time as possible to reach the top of the leaderboard.
-
-A game by _Rayyan Aziz_ and _Adil Shafique_ of _The Silver Demons_
-
+Face demons, overcome their patterns and finish them off in as less time as possible to reach the top of the leaderboard.<br>
+A game by _Rayyan Aziz_ and _Adil Shafique_ of _The Silver Demons_<br>
 [Buy on Steam](https://store.steampowered.com/app/2681270/The_Void_Project/)
 
 
