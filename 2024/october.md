@@ -2,7 +2,7 @@
 title: October 2024
 ---
 
-``` {css}
+``` {css echo=FALSE}
 body {
  background-color: black;
  color: white;
