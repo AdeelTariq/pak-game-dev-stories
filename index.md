@@ -12,4 +12,4 @@ Game Development Stories from Pakistan
 <br>
 
 - [2024](2024)
- - [October](october)
+  - [October](october)
