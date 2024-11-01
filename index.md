@@ -7,7 +7,7 @@ description: Game Development Stories from Pakistan
 ---
 
 <p align="center">
-  <img src="https://styles.redditmedia.com/t5_ckbq64/styles/communityIcon_ooei9a15xprd1.png" alt="Pak Game Dev Logo" />
+  <img src="https://styles.redditmedia.com/t5_ckbq64/styles/communityIcon_ooei9a15xprd1.png" alt="Pak Game Dev Logo" class="logo"/>
 </p>
 
 <br>
