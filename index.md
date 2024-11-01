@@ -6,9 +6,7 @@ image: https://styles.redditmedia.com/t5_ckbq64/styles/communityIcon_ooei9a15xpr
 description: Game Development Stories from Pakistan
 ---
 
-# Pak Game Dev Stories
-Game Development Stories from Pakistan
-
+<br>
 <br>
 
 - [2024](2024)
