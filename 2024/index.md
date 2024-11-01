@@ -6,9 +6,7 @@ image: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/31
 description: What happened in 2024 in the Pakistani Game Dev scene? Let's find out.
 ---
 
-# 2024
-What happened in 2024 in the Pakistani Game Dev scene? Let's find out.
-
+<br>
 <br>
 
 - [October](october)
