@@ -6,10 +6,7 @@ image: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/31
 description: What happened in October in the Pakistani Game Dev scene? Let's find out.
 ---
 
-# October 2024
-
-What happened in October in the Pakistani Game Dev scene? Let's find out.
-
+<br>
 <br>
 ## New Steam Releases 🥳
 
