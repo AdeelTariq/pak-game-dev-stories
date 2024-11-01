@@ -6,10 +6,10 @@ image: https://styles.redditmedia.com/t5_ckbq64/styles/communityIcon_ooei9a15xpr
 description: Game Development Stories from Pakistan
 ---
 
-<br>
-<center>
-![](https://styles.redditmedia.com/t5_ckbq64/styles/communityIcon_ooei9a15xprd1.png)
-</center>
+<p align="center">
+  <img src="https://styles.redditmedia.com/t5_ckbq64/styles/communityIcon_ooei9a15xprd1.png" alt="Pak Game Dev Logo" />
+</p>
+
 <br>
 
 - [2024](2024)
