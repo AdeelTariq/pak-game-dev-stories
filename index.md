@@ -7,6 +7,9 @@ description: Game Development Stories from Pakistan
 ---
 
 <br>
+<center>
+![](https://styles.redditmedia.com/t5_ckbq64/styles/communityIcon_ooei9a15xprd1.png)
+</center>
 <br>
 
 - [2024](2024)
