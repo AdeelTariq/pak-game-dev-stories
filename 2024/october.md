@@ -24,7 +24,7 @@ A game by _Waqas Shafique_, _Shaheer Khan_ and _Najam Ul Haque_ of _Shadow Owl S
 ### **The Void Project**
 [![](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2681270/header.jpg)](https://store.steampowered.com/app/2681270/The_Void_Project/)<br>
 Face demons, overcome their patterns and finish them off in as less time as possible to reach the top of the leaderboard.<br>
-A game by _Rayyan Aziz_ and _Adil Shafique_ of _The Silver Demons_<br>
+A game by _Rayyan Aziz_ and _Adil Shafiq_ of _The Silver Demons_<br>
 [Buy on Steam](https://store.steampowered.com/app/2681270/The_Void_Project/)
 
 
