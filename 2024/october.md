@@ -83,7 +83,7 @@ IGDA Pakistan hosted a story writing jam on their discord around the theme of â€
 This new subreddit was created for Pakistani game devs and creatives (by me) as a place where people in the industry can share what they are up to and new comers can find guidance and aspiration.
   
 #### **Steam Next Fest**
-Steam hosted the year's third and last Next Fest which is an event featuring lots of free demos and new games. Two Pakistani games _Liminalcore_ and _The Void Project_ participated this time and their demos are still up so give them a try.
+Steam hosted the year's third and last Next Fest which is an event featuring lots of free demos and new games. Two Pakistani games _Liminalcore_, _The Void Project_ and [_PedalVerse_](https://store.steampowered.com/app/3164680/pedalverse/) participated this time and their demos are still up so give them a try.
 
 ---
 
