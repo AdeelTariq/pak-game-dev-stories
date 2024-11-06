@@ -40,9 +40,11 @@ Even more releases. Yay!
 
 3. [**An Apple A Day**<br>![](https://img.itch.zone/aW1nLzE4MjE4ODAzLnBuZw==/315x250%23c/nM5TJO.png)](https://sarah-noor.itch.io/an-apple-a-day)
 
-4. [**My Sopwith**<br>![](https://img.itch.zone/aW1nLzE4MzY5Njg4LmdpZg==/315x250%23cm/oaF8vt.gif)](https://adeeltariq.itch.io/sopwith)
+4. [**RYAN!**<br>![](https://img.itch.zone/aW1nLzE4MjYzOTY0LnBuZw==/315x250%23c/hZdqWz.png)](https://advis.itch.io/ryan-run)
 
-5. [**Creepy Collectibles**<br>![](https://img.itch.zone/aW1nLzE4MjA5NDI4LnBuZw==/315x250%23c/%2FxHEUp.png)](https://jeea84.itch.io/creepy-collectibles)
+5. [**My Sopwith**<br>![](https://img.itch.zone/aW1nLzE4MzY5Njg4LmdpZg==/315x250%23cm/oaF8vt.gif)](https://adeeltariq.itch.io/sopwith)
+
+6. [**Creepy Collectibles**<br>![](https://img.itch.zone/aW1nLzE4MjA5NDI4LnBuZw==/315x250%23c/%2FxHEUp.png)](https://jeea84.itch.io/creepy-collectibles)
 
 
 <br>
