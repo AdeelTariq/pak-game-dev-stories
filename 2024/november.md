@@ -34,7 +34,13 @@ Even more releases. Yay!
 ## Announcements 📢 
 
 Here are some new projects announced this month. Looking forward to more updates on these.
- 
+
+
+#### **Relicbound**
+Developer Bilawal Talpur announced their new game Relicbound with some in-development footage which can be found [here](https://www.youtube.com/watch?v=4PE8EkGVba4)<br>
+[Steam Page](https://store.steampowered.com/app/3334990/Relicbound/)
+
+
 #### **FOSSILS**
 According to the devs it is a 'a role-playing game featuring an original story'. No other info is currently available. 🤷‍♂<br>
 [Announcement](https://www.linkedin.com/posts/ultrolon-studio_fossils-trailer-1-coming-soon-prepare-activity-7263946425678372865-q2l5/?utm_source=share&utm_medium=member_desktop)
@@ -51,9 +57,6 @@ A game jam celebrating Iqbal through making games.
 
 <br>
 ## Other News 📰
-
-#### **Updates on Relicbound**
-Pakistani developer Bilawal Talpur shared some in-development footage of their game Relicbound, which can be found [here](https://www.youtube.com/watch?v=4PE8EkGVba4)
 
 #### We are on Bluesky
 Pakistani Indie community is on Bluesky. [Here](https://go.bsky.app/2BTL8xk)'s a starter pack with a bunch of indie developers in it. If you are an indie and on Bluesky then let me know and I'll add you.
