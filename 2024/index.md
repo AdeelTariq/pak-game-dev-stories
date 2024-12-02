@@ -10,3 +10,4 @@ description: What happened in 2024 in the Pakistani Game Dev scene? Let's find o
 <br>
 
 - [October](october)
+- [November](november)
