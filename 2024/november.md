@@ -2,7 +2,7 @@
 title: November 2024
 author: Adeel Tariq
 output: html_document
-image: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3107900/header.jpg
+image: https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3164680/header.jpg
 description: What happened in November in the Pakistani Game Dev scene? Let's find out.
 ---
 
