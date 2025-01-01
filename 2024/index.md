@@ -11,3 +11,4 @@ description: What happened in 2024 in the Pakistani Game Dev scene? Let's find o
 
 - [October](october)
 - [November](november)
+- [December](december)
