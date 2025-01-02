@@ -28,7 +28,7 @@ Even more releases. Yay!
 1. [**I Lost My Phone**](https://aclara.itch.io/i-lost-my-phone "https://aclara.itch.io/i-lost-my-phone")
 2. [**A Short Farewell (Full Release)**](https://adeeltariq.itch.io/a-short-farewell)
 3. [**I Miss My Childhood**](https://aclara.itch.io/i-miss-my-childhood)
-4. [**JoustKing**](https://aclara.itch.io/i-miss-my-childhood)
+4. [**JoustKing**](https://rapidcream.itch.io/joustking)
 
 <br>
 ## Announcements 📢 
