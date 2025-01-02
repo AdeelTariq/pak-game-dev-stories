@@ -36,7 +36,7 @@ Even more releases. Yay!
 Here are some new projects announced this month. Looking forward to more updates on these.
 
 #### **Unnamed City Builder**
-Developer _Bilal Cheema_ shared a sneak peak of their in-development game describing it as "a minimalistic city builder with tiling twists and numbering turns".<br>
+Developer _Bilal Cheema_ shared a sneak peek of their in-development game describing it as "a minimalistic city builder with tiling twists and numbering turns".<br>
 [Reddit Post](https://www.reddit.com/r/BAC_Games/comments/1hqkilf)
 
 ---
