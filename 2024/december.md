@@ -41,7 +41,7 @@ Developer _Bilal Cheema_ shared a sneak peak of their in-development game descri
 
 ---
 
-That's it. All that happened during the month of November in the Pakistani Game Development scene mostly related to PC indie games.
+That's it. All that happened during the month of December in the Pakistani Game Development scene mostly related to PC indie games.
 
 Did I miss something? Do you know of a Pakistani indie studio or developers that are doing something cool? Please share and help me highlight them.
 
