@@ -22,7 +22,7 @@ A game by Sajjad Chandio and Sarah Noor<br>
 ### **Flappy Quest**
 [![](https://play-lh.googleusercontent.com/xy_RvwLU0cHmJ5SHVNT4d-PAkMIPPk-2p8ZSXcDtpi3fn9IeM7JWmIFzgr577Z5nmsY=w540-h302-rw)](https://play.google.com/store/apps/details?id=com.BoopaGames.FlappyQuestJourneyToTheStars)<br>
 I don't and won't usually cover mobile games but this one seems alright. <br>
-A game by Mustafa and others at of BoopaGames<br>
+A game by Mustafa and others at BoopaGames<br>
 [Play on Google Play](https://play.google.com/store/apps/details?id=com.BoopaGames.FlappyQuestJourneyToTheStars)
 <br>
 
