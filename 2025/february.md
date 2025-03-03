@@ -41,7 +41,7 @@ A first-person psychological horror game.<br>
 
 ### **Pestilence**
 Waking up with no memory and a raging headache, explore the grim and haunting surroundings as a twisted tale unravels.<br>
-[Jam Games](https://globalgamejam.org/group/12189/games)
+[Steam Page](https://store.steampowered.com/app/3525940/Pestilence/)<br>
 
 ## Open Source
 <hr>
