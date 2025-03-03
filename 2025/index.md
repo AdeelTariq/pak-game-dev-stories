@@ -10,3 +10,4 @@ description: What happened in 2025 in the Pakistani Game Dev scene? Let's find o
 <br>
 
 - [January](january)
+- [February](february)
