@@ -9,6 +9,7 @@ description: What happened in February in the Pakistani Game Dev scene? Let's fi
 What happened in February 2025 in the Pakistani Game Dev scene? Let's find out.
 
 ## Releases 🥳
+<hr>
 ### **I Made This For You**
 I made this tiny puzzle game. It kinda abstruse.<br>
 [Play on itch](https://adeeltariq.itch.io/i-made-this-for-you)<br>
@@ -29,6 +30,7 @@ A cool little game prototype with a unique concept highlighting a social issue. 
 [Play on itch](https://hana-studio.itch.io/this-is-not-a-game)<br>
 
 ## Announcements 📢
+<hr>
 ### **Cafe New York 9/11**
 Story of a Pakistani Immigrant family living in NYC during 9/11<br>
 [Reddit](https://www.reddit.com/r/PakGameDev/comments/1iny2mg/)<br>
@@ -42,10 +44,12 @@ Waking up with no memory and a raging headache, explore the grim and haunting su
 [Jam Games](https://globalgamejam.org/group/12189/games)
 
 ## Open Source
+<hr>
 ### **GodotTidbits by Adil**
 This repo contains all of the code from Adil's (aka Yellow Dude) Godot Tidbits videos.<br>
 [Github](https://github.com/AdilDevStuff/GodotTidbits)<br>
 
+<br>
 ## Pakistan Game Jam
 I'm hosting the second iteration of Pakistan Game Jam this month. If you are a Pakistani developer or student, please consider joining.<br>
 [Pakistan Game Jam](https://itch.io/jam/pakistan-game-jam)<br>
