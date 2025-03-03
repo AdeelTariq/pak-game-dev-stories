@@ -12,3 +12,7 @@ description: Game Development Stories from Pakistan
   - [October](2024/october)
   - [November](2024/november)
   - [December](2024/december)
+
+- [2025](2025)
+  - [January](2025/january)
+  - [February](2025/february)
