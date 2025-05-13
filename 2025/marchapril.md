@@ -49,7 +49,7 @@ A quirky indie game showcased by Adil Shafiq, Hashir Shahzad and Shahbhaz<br>
 
 ---
 
-# Demos & Projects Coming Soon 👷
+# Demos & Coming Soon 👷
 
 ### **Relicbound**  
 A story-driven action-adventure shooter where an archaeologist must stop a time-controlling relic from falling into the wrong hands. A project by Bilawal Talpur.<br>
