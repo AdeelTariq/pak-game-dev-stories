@@ -87,6 +87,12 @@ A narrative twist game told from a dashcam perspective, blending mystery and min
 
 ---
 
+### 🇵‍🇰 Pakistan Game Jam
+Oh yeah and I hosted the second 🇵‍🇰 Pakistan Game Jam in March around Pakistan Day.<br>
+[Check out the entries here](https://itch.io/jam/pakistan-game-jam/entries)<br>
+
+---
+
 That's it. All that happened during the last couple of months in the Pakistani Game Development scene mostly related to PC indie games.
 
 Did I miss something? Do you know of a Pakistani indie studio or developers that are doing something cool? Please share and help me highlight them.
