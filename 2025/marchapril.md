@@ -62,7 +62,7 @@ Step into the life of a Pakistani-American café owner on a fateful morning in M
 
 
 ### Wobble Wars  
-Chaotic physics-based multiplayer mayhem with rolling, dashing, and smashing spherical warriors.  <br>
+Chaotic physics-based multiplayer mayhem with rolling, dashing, and smashing spherical warriors. By Muhammad Sufyan from Hito Studios.  <br>
 [Wishlist on Steam](https://store.steampowered.com/app/3682170/Wobble_Wars/)<br><br>
 
 
