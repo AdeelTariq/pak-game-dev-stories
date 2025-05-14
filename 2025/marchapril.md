@@ -85,7 +85,13 @@ A brutal platformer where each jump is a test of precision and patience. Develop
 A narrative twist game told from a dashcam perspective, blending mystery and minimalism. Developed by Advis.  <br>
 [itch.io Page](https://advis.itch.io/take-the-next-left)<br><br>
 
+
+### Pestilence
+Play as a missing person trapped, unraveling your captor's twisted secrets through environmental horror and puzzle-solving.<br>
+[Steam Page](https://store.steampowered.com/app/3525940/Pestilence) <br><br>
+
 ---
+
 <br>
 ### 🇵‍🇰 Pakistan Game Jam
 Oh yeah and I hosted the second 🇵‍🇰 Pakistan Game Jam in March around Pakistan Day.<br>
